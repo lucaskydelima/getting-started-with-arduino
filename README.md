@@ -7,5 +7,5 @@
 ![image](https://user-images.githubusercontent.com/94420252/230749510-532029e4-0bae-453c-9e8a-4ec7fccf9509.png)
 
 ### 3) Project 3: Buttons (digital inputs)
-![image](https://user-images.githubusercontent.com/94420252/232254881-bb406969-5930-4170-bea0-916001a8aeb2.png)
+![image](https://user-images.githubusercontent.com/94420252/232255448-49106305-27e8-4723-aee7-ec83b6c416a4.png)
 
